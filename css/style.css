@@ -1,0 +1,26 @@
+.container h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    Font-size: 80px;
+    Font-weight: 700;
+    
+}
+.container button{
+    padding:30px 80px;
+    border-radius: 0px;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+}
+.container p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+.btn-blue {
+    --bs-btn-color: #fff;
+    --bs-btn-bg:rgb(0,0,255);
+    --bs-btn-border-color: black;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: green;
+    --bs-btn-hover-border-color:black;
+  }
